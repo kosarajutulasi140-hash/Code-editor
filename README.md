@@ -34,6 +34,10 @@ The following dependencies were used to build the collaborative editor component
     ## Configure Backend URLs
     Inside ai.ts 
 
+## Step 4 
+    Run the front end 
+    ng serve --proxy-config proxy.conf.json
+
 # Backend
 
     1. Prerequisites
